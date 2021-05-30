@@ -27,8 +27,8 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class HomeScreen extends Fragment {
-    private static final String API_KEY = "AIzaSyDy6NkP1QALklqKGiYpeHFziDMUSSPD0j0";
-    private static final String SEARCH_ID_cx = "3ce74a8777942240f";
+    private static final String API_KEY = "";
+    private static final String SEARCH_ID_cx = "";
 
     private RetrofitInterface retrofitInterface;
     private SharedViewModel model;
