@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63013491947",
+    "project_id": "painrecord-314011",
+    "storage_bucket": "painrecord-314011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63013491947:android:e17118698262a2bef35aae",
+        "android_client_info": {
+          "package_name": "com.example.mypaindiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63013491947-54au0dokpom80u9itir5htoc3i9rtsep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEFEZOWOTLwb6f2qXTgPMuBtHusCASYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63013491947-54au0dokpom80u9itir5htoc3i9rtsep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

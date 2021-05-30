@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="position">
+        <item> Back </item>
+        <item> Neck </item>
+        <item> Head </item>
+        <item> Knees </item>
+        <item> Hips </item>
+        <item> Abdomen </item>
+        <item> Elbows </item>
+        <item> Shoulders </item>
+        <item> Shins </item>
+        <item> Jaw </item>
+        <item> Facial </item>
+    </string-array>
+</resources>

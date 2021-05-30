@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/homeImage"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:text="Stay Healthy."/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="310dp"
+        android:background="@drawable/home" />
+
+    <TextView
+        android:id="@+id/date"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/temp"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/humidity"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/pressure"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:textStyle="bold" />
+
+</LinearLayout>
