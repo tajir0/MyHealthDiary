@@ -1,5 +1,5 @@
-# MypainDiary
-An Android course demo project 
+# MyHealthDiary
+An Android demo project 
 
 ## Features
 
